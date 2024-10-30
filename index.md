@@ -46,10 +46,9 @@ If you are interested in Deep Learning
 | 1/20 | Course overview | Introduction to NLP | |
 | 1/27 | Regular expression | Lab: Regular expression in Python | Assignment 1 | |
 | 2/3 | Text preprocessing | Lab: Text preprocessing in Python | |
-| 2/10 | n-gram | Lab: build n-gram in Python | Assignment 2 | Assignment 1 |
-| 2/10 | Text classification | Evaluation metrics | | |
-| 2/17 | No classes | Part-of-speech tagging | Literature review | |
-| 2/24 | Parsing | Lab: PoS tagging |  | Assignment 2 |
+| 2/10 | n-gram | Text classification | Assignment 2 | Assignment 1 |
+| 2/17 | No classes | Evaluation metrics | Literature review | |
+| 2/24 | Part-of-speech tagging | Parsing |  | Assignment 2 |
 | 3/3 | Word vector | Lab: word vector | 
 | 3/10 | Intro to deep learning | Intro to deep learning | Project proposal | |
 | 3/17 | CNN | RNN | Assignment 3 | Literature review |
