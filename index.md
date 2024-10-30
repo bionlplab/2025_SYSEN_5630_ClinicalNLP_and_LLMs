@@ -58,5 +58,5 @@ If you are interested in Deep Learning
 | 4/7 | Large Langauge Model | Lab: BERT | |
 | 4/14 | Prompt engineering | Lab: LLM | Assignment 4 |
 | 4/21 | LLM fine-tuning | LLM evaluation | |
-| 4/28 | Multimodal large language models | | Final project presentation |
+| 4/28 | Multimodal large language models | Final project presentation | ｜
 | 5/5 | Final project presentation | | Final project paper |

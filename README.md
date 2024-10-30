@@ -1,4 +1,4 @@
-## HINF 5016 Natural Language Processing in Health
+## SYSEN 5630 Clinical Natural Language Processing and Large Language Models
 
 **Spring, 2025**
 
