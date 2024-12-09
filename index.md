@@ -43,21 +43,36 @@ If you are interested in Deep Learning
 
 ### Tentative Course Schedule Overview 
 
-| Week | Topic 1 | Topic 2 | Event | Deadline |
-|----|-------------------------------------------|-----------------------------|---------------------|
-| 1/20 | Course overview | Introduction to NLP | |
-| 1/27 | Regular expression | Lab: Regular expression in Python | Assignment 1 | |
-| 2/3 | Text preprocessing | Lab: Text preprocessing in Python | |
-| 2/10 | n-gram | Text classification | Assignment 2 | Assignment 1 |
-| 2/17 | No classes | Evaluation metrics | Literature review | |
-| 2/24 | Part-of-speech tagging | Parsing |  | Assignment 2 |
-| 3/3 | Word vector | Lab: word vector | 
-| 3/10 | Intro to deep learning | Intro to deep learning | Project proposal | |
-| 3/17 | CNN | RNN | Assignment 3 | Literature review |
-| 3/24 | Transformer | Fine-tuning techniques |
-| 3/31 | No classes |  | Assignment 4 | Assignment 3 |
-| 4/7 | Large Langauge Model | Lab: BERT | |
-| 4/14 | Prompt engineering | Lab: LLM | | Assignment 4 |
-| 4/21 | LLM fine-tuning | LLM evaluation | |
-| 4/28 | Multimodal large language models | AI agent | |
-| 5/5 | Trustworthy AI | | | Final project paper |
+| Date | Topics                            | Event             | Deadline            |
+|------|-----------------------------------|-------------------|---------------------|
+| 1/21 | Course overview                   |                   |                     |
+| 1/23 | Introduction to NLP               |                   |                     |
+| 1/28 | Regular expression                | Assignment 1      |                     |
+| 1/30 | Lab: Regular expression in Python |                   |                     |
+|  2/4 | Text preprocessing                |                   |                     |
+|  2/6 | Lab: Text preprocessing in Python |                   |                     |
+| 2/11 | n-gram                            | Assignment 2      | Assignment 1        |
+| 2/13 | Text classification               |                   |                     |
+| 2/18 | No classes                        |                   |                     |
+| 2/20 | Evaluation metrics                | Literature review |                     |
+| 2/25 | Part-of-speech tagging            |                   | Assignment 2        |
+| 2/27 | Parsing                           |                   |                     |
+|  3/4 | Word vector                       |                   |                     |
+|  3/6 | Lab: word vector                  |                   |                     |
+| 3/11 | Intro to deep learning            | Project proposal  |                     |
+| 3/13 | Intro to deep learning - II       | Assignment 3      |                     |
+| 3/18 | CNN                               |                   |                     |
+| 3/20 | RNN                               |                   | Literature review   |
+| 3/25 | Transformer                       |                   |                     |
+| 3/27 | Fine-tuning techniques            |                   | Assignment 3        |
+|  4/1 | No classes                        |                   |                     |
+|  4/3 | No classes                        |                   |                     |
+|  4/8 | Large Langauge Model              | Assignment 4      |                     |
+| 4/10 | Lab: BERT                         |                   |                     |
+| 4/15 | Prompt engineering                |                   |                     |
+| 4/17 | Lab: LLM                          |                   |                     |
+| 4/22 | LLM fine-tuning                   |                   | Assignment 4        |
+| 4/24 | LLM evaluation                    |                   |                     |
+| 4/29 | Multimodal large language models  |                   |                     |
+|  5/1 | AI agent                          |                   |                     |
+|  5/6 | Trustworthy AI                    |                   | Final project paper |
