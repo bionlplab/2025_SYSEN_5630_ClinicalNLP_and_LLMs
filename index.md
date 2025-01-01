@@ -1,8 +1,7 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
 **Time**: Jan. 21, 2025 - May 6, 2025, 5:00-6:15 pm East Time on Tuesdays and Thursdays<br>
 **Location**: Remote<br>
-**TA**: TBD<br>
-**Office Hours**: TBD<br>
+**TA**: Matthew Ma ([ham7026@med.cornell.edu](ham7026@med.cornell.edu))<br>
 **Grading**: Letter grade
 
 ### Course Aims and Outcomes
